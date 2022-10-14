@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "43umWNJZOzbYbckjYDBv9m0/W7LReVpbcOek1ZuruXXhJ3XsDFTIhOrsO40MThzNe14JrCc7aVVLLMD+gI9NyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Denis\\Desktop\\Мои программы c#\\BoxPhoto\\BoxPhoto\\BoxPhoto\\BoxPhoto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Denis\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

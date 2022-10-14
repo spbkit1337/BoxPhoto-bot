@@ -1,0 +1,17 @@
+C:\Users\Denis\Desktop\Мои программы c#\BoxPhoto\BoxPhoto\BoxPhoto\bin\Debug\netcoreapp3.1\BoxPhoto.exe
+C:\Users\Denis\Desktop\Мои программы c#\BoxPhoto\BoxPhoto\BoxPhoto\bin\Debug\netcoreapp3.1\BoxPhoto.deps.json
+C:\Users\Denis\Desktop\Мои программы c#\BoxPhoto\BoxPhoto\BoxPhoto\bin\Debug\netcoreapp3.1\BoxPhoto.runtimeconfig.json
+C:\Users\Denis\Desktop\Мои программы c#\BoxPhoto\BoxPhoto\BoxPhoto\bin\Debug\netcoreapp3.1\BoxPhoto.runtimeconfig.dev.json
+C:\Users\Denis\Desktop\Мои программы c#\BoxPhoto\BoxPhoto\BoxPhoto\bin\Debug\netcoreapp3.1\BoxPhoto.dll
+C:\Users\Denis\Desktop\Мои программы c#\BoxPhoto\BoxPhoto\BoxPhoto\bin\Debug\netcoreapp3.1\BoxPhoto.pdb
+C:\Users\Denis\Desktop\Мои программы c#\BoxPhoto\BoxPhoto\BoxPhoto\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Denis\Desktop\Мои программы c#\BoxPhoto\BoxPhoto\BoxPhoto\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\Denis\Desktop\Мои программы c#\BoxPhoto\BoxPhoto\BoxPhoto\obj\Debug\netcoreapp3.1\BoxPhoto.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\Мои программы c#\BoxPhoto\BoxPhoto\BoxPhoto\obj\Debug\netcoreapp3.1\BoxPhoto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\Desktop\Мои программы c#\BoxPhoto\BoxPhoto\BoxPhoto\obj\Debug\netcoreapp3.1\BoxPhoto.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Мои программы c#\BoxPhoto\BoxPhoto\BoxPhoto\obj\Debug\netcoreapp3.1\BoxPhoto.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Мои программы c#\BoxPhoto\BoxPhoto\BoxPhoto\obj\Debug\netcoreapp3.1\BoxPhoto.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Мои программы c#\BoxPhoto\BoxPhoto\BoxPhoto\obj\Debug\netcoreapp3.1\BoxPhoto.csproj.CopyComplete
+C:\Users\Denis\Desktop\Мои программы c#\BoxPhoto\BoxPhoto\BoxPhoto\obj\Debug\netcoreapp3.1\BoxPhoto.dll
+C:\Users\Denis\Desktop\Мои программы c#\BoxPhoto\BoxPhoto\BoxPhoto\obj\Debug\netcoreapp3.1\BoxPhoto.pdb
+C:\Users\Denis\Desktop\Мои программы c#\BoxPhoto\BoxPhoto\BoxPhoto\obj\Debug\netcoreapp3.1\BoxPhoto.genruntimeconfig.cache
